@@ -1,21 +1,21 @@
-const CACHE_NAME = 'sunlight-sweets-standalone-v1';
+const CACHE_NAME = 'sunlight-sweets-standalone-v2';
 const ASSETS = [
   './',
   './index.html',
   './manifest.json',
-  './css/style.css',
-  './js/jalali.js',
-  './js/db.js',
-  './js/seed-data.js',
-  './js/app.js',
-  './vendor/xlsx.full.min.js',
-  './vendor/Vazirmatn-Regular.woff2',
-  './vendor/Vazirmatn-Bold.woff2',
-  './vendor/Vazirmatn-Medium.woff2',
-  './vendor/Vazirmatn-ExtraBold.woff2',
-  './img/logo.png',
-  './img/icon-192.png',
-  './img/icon-512.png',
+  './style.css',
+  './jalali.js',
+  './db.js',
+  './seed-data.js',
+  './app.js',
+  './xlsx.full.min.js',
+  './Vazirmatn-Regular.woff2',
+  './Vazirmatn-Bold.woff2',
+  './Vazirmatn-Medium.woff2',
+  './Vazirmatn-ExtraBold.woff2',
+  './logo.png',
+  './icon-192.png',
+  './icon-512.png',
 ];
 
 self.addEventListener('install', (event) => {

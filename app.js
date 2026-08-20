@@ -687,7 +687,7 @@ async function printInvoice(orderId) {
     <div style="font-family:'Vazirmatn',Tahoma,sans-serif;direction:rtl;padding:10px">
       <div style="display:flex;align-items:center;justify-content:space-between;border-bottom:3px solid #e08a2e;padding-bottom:14px;margin-bottom:18px">
         <div style="display:flex;align-items:center;gap:10px">
-          <img src="img/logo.png" style="width:60px;height:60px;border-radius:50%">
+          <img src="logo.png" style="width:60px;height:60px;border-radius:50%">
           <div><div style="font-size:12px;color:#9c8570">Sunlight Sweets</div></div>
         </div>
         <h1 style="color:#d1652a;margin:0;font-size:24px">فاکتور فروش</h1>
